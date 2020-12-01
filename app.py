@@ -11,7 +11,7 @@ import plotly.express as px
 
 HTML_BANNER = """
     <div style="background-color:#464e5f;padding:10px;border-radius:10px">
-    <h1 style="color:white;text-align:center;">ToDo App (CRUD)</h1>
+    <h1 style="color:white;text-align:center;">To Do APP</h1>
     <p style="color:white;text-align:center;">Built with Streamlit</p>
     </div>
     """
